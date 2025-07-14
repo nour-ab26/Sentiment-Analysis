@@ -52,7 +52,7 @@ This process reduced the total word count from **5732** to **3064**.
 - **Weighted F1-Score**: `0.7247`
 
 
-###📦 Requirements
+📦 Requirements
 - Python 3.x
 - pandas
 - numpy
