@@ -46,13 +46,13 @@ This process reduced the total word count from **5732** to **3064**.
 - The dataset was split (80% training, 20% testing).
 - Model used: **Support Vector Machine (SVM)** classifier.
 
-### ✅ Evaluation Metrics
+## ✅ Evaluation Metrics
 
 - **Accuracy**: `0.7300`
 - **Weighted F1-Score**: `0.7247`
 
 
-### 📦 Requirements
+## 📦 Requirements
 - Python 3.x
 - pandas
 - numpy
